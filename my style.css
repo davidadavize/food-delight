@@ -1,0 +1,61 @@
+body{
+    background-color: pink;
+    text-align: center;
+    }
+
+/*navigation*/
+.nav-link{
+    color: white;
+    padding: 0 14px;
+    
+font-family: 'Montserrat', sans-serif;
+
+}
+.navbar{
+    background-color: rgb(250, 114, 136);
+}
+
+
+.card{
+    background-color: rgb(250, 114, 136);
+    margin: 0.5rem;
+    color: #fff;
+    font-family: 'Alkatra', cursive;
+
+    }
+    hr{
+      border-style: none;
+      height: 2px;
+        background-color: #fff;
+    
+    }
+    .icons{
+        padding: 50px 20px;
+        font-family: 'Alkatra', cursive;
+        }
+    .contact-icons{
+        display: inline-block;
+        padding: 30px
+    }
+#contact{
+    background-color: rgb(250, 114, 136);
+    font-family: 'Alkatra', cursive;
+
+}
+a{
+    text-decoration: none;
+}
+#Slide{
+    margin: 20px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+.pic{
+    width: 40%;
+}
+@media (max-width: 700px){
+   .pic{
+    width: 80%;
+   } 
+}
